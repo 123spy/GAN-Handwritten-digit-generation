@@ -142,9 +142,9 @@ def train(dataset, test_input, epochs):
 
 ## 参考视频
 
-- GAN论文逐段精读【论文精读】- 李沫. [[Link]([GAN论文逐段精读【论文精读】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rb4y187vD/?spm_id_from=333.337.search-card.all.click&vd_source=f49218cb60f4f33426bf82f55cd9a775))]
+- GAN论文逐段精读【论文精读】- 李沫. [[Link]]([GAN论文逐段精读【论文精读】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rb4y187vD/?spm_id_from=333.337.search-card.all.click&vd_source=f49218cb60f4f33426bf82f55cd9a775))
 
-- 生成对抗网络GAN开山之作论文精读 - 同济子豪兄. [[Link]([生成对抗网络GAN开山之作论文精读_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oi4y1m7np/?spm_id_from=333.337.search-card.all.click&vd_source=f49218cb60f4f33426bf82f55cd9a775))]
+- 生成对抗网络GAN开山之作论文精读 - 同济子豪兄. [[Link]]([生成对抗网络GAN开山之作论文精读_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oi4y1m7np/?spm_id_from=333.337.search-card.all.click&vd_source=f49218cb60f4f33426bf82f55cd9a775))
 
 ## 参考文章
 
